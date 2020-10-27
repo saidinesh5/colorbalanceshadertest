@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>color_bars.png</file>
+        <file>pal_signals.png</file>
+    </qresource>
+</RCC>
